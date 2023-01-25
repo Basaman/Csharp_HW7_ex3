@@ -1,0 +1,15 @@
+D:\GB\C#\HW\HW7\HW7_ex3\bin\Debug\net6.0\HW7_ex3.exe
+D:\GB\C#\HW\HW7\HW7_ex3\bin\Debug\net6.0\HW7_ex3.deps.json
+D:\GB\C#\HW\HW7\HW7_ex3\bin\Debug\net6.0\HW7_ex3.runtimeconfig.json
+D:\GB\C#\HW\HW7\HW7_ex3\bin\Debug\net6.0\HW7_ex3.dll
+D:\GB\C#\HW\HW7\HW7_ex3\bin\Debug\net6.0\HW7_ex3.pdb
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\HW7_ex3.csproj.AssemblyReference.cache
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\HW7_ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\HW7_ex3.AssemblyInfoInputs.cache
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\HW7_ex3.AssemblyInfo.cs
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\HW7_ex3.csproj.CoreCompileInputs.cache
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\HW7_ex3.dll
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\refint\HW7_ex3.dll
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\HW7_ex3.pdb
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\HW7_ex3.genruntimeconfig.cache
+D:\GB\C#\HW\HW7\HW7_ex3\obj\Debug\net6.0\ref\HW7_ex3.dll
